@@ -1,0 +1,3 @@
+PlanDate,Ticker,InstrType,PayType,PlannedGross,Source,Comment
+2026-02-15,SU26238RMFS4,BOND,COUPON,420,Rusbonds,План купона
+2026-05-20,SBER,STOCK,DIVIDEND,320,DivForecast,Прогноз дивиденда

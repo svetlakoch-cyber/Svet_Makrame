@@ -1,0 +1,4 @@
+Account,Ticker,InstrType,QtyOpen,CostOpen,AvgBuyOpen,CouponGross,DividendGross,TaxTotal,IncomeNet,RealizedPnL_Sell,RealizedPnL_Redemption,BPIF_GrowthSold_RUB,BPIF_GrowthSold_Pct,MarketValue,BPIF_GrowthCurrent_RUB,BPIF_GrowthCurrent_Pct
+BROKER,SU26238RMFS4,BOND,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IIS,SBER,STOCK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BROKER,TMOS,BPIF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
